@@ -3,8 +3,7 @@
 Tried making a copy of https://www.yugiohcalculator.com/ which seams to be down nowadays.
 (http://web.archive.org/web/20170709041558/https://www.yugiohcalculator.com/)
 
-The site used some framework and minified the javascript, so I wrote pure JS from scratch.
-I copied the layout since I already had the muscle memory.
+The site used some framework and minified the javascript, so I wrote pure JS from scratch but copied the layout since I already had the muscle memory.
 
 # PWA
 
