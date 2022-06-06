@@ -62,7 +62,7 @@ button {
 #lp2-value,
 [id^="plus"],
 [id^="minus"] {
-  font-size: 14vh;
+  font-size: 12vh;
 }
 
 #timer,
